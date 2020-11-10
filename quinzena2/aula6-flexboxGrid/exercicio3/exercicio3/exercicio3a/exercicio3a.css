@@ -1,0 +1,99 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+#top-container {
+    display: flex;
+}
+
+.green-background {
+    width: 20%;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    background-color: green;
+}
+
+.yellow-background {
+    width: 80%;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+}
+
+.pink-background {
+    width: 100vw;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: fuchsia;
+}
+
+#middle-container {
+    display: flex;
+}
+
+#content2 {
+    width: 50vw;
+}
+
+.blue-background {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+
+#blank {
+    width: 25vw;
+    height: 200px;
+}
+
+#vertical-middle-container {
+    /* display: flex;
+    flex-direction: column; */
+}
+
+#image {
+    width: 25vw;
+}
+
+.red-background {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
+
+#extra {
+    width: 25vw;
+}
+
+.lightgreen-background {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgreen;
+}
+
+.purple-background {
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: purple;
+}
